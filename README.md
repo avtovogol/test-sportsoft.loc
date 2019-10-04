@@ -1,4 +1,14 @@
-    Тестовое задание.
+Интструкция:
+фронтенд: test-sportsoft.loc
+бекэнд: test-sportsoft.loc/admin
+
+тестовые пользователи: admin/111111 - роль администратора, доступен просмотр всех сообщений обратной связи
+
+user/111111 - доступен просмотр только сообщений отправленых пользователем
+
+
+
+Задание:
 
 1 Развернуть проект с помощью [VirtualBox] (https://www.virtualbox.org/wiki/Downloads) и [Vagrant]
 (https://www.vagrantup.com/downloads.html)
