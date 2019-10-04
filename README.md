@@ -1,4 +1,5 @@
 Интструкция:
+-----------------
 
 фронтенд: test-sportsoft.loc
 
@@ -13,6 +14,7 @@ user/111111 - доступен просмотр только сообщений 
 
 
 Задание:
+---------------
 
 1 Развернуть проект с помощью [VirtualBox] (https://www.virtualbox.org/wiki/Downloads) и [Vagrant]
 (https://www.vagrantup.com/downloads.html)
